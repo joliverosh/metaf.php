@@ -1,4 +1,4 @@
-# Metaf.php - METAR/SPECI/TAF Decoder Library
+# Metaf.php - METAR/SPECI/TAF Decoder PHP Library
 
 ## Version Information
 
